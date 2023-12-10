@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(200, 200, 200);
+    align-items: center;
+    border: 10px solid brown;
+}
+p{
+    color: rgb(70, 70, 60);
+}
+td{
+    color: rgb(70, 70, 60);
+}
+
+button{
+    color: rgb(108, 56, 19);
+    background-color: burlywood;
+    border-radius: 8px;
+    cursor: pointer;
+}
+#Kamal{
+    color: aquamarine;
+    display: block;
+    background-color: cornflowerblue;
+    width: 170px;
+    height: 35px;
+    border-radius: 10px;
+}
+tr{
+    border-color: darkturquoise
+}
+#body1{
+    background-color: burlywood;
+}
+.img{
+    border-radius: 10px;
+    border: 10px solid cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+@font-face{
+    font-family: oktah;
+    src: url(oktah-font-family-1701089700-0/Fontspring-DEMO-oktah_black-BF651105f82a58b.otf);
+    font-weight: normal;
+}
+h1,h3,a,div{
+    font-family: oktah;
+    src: url(oktah-font-family-1701089700-0/Fontspring-DEMO-oktah_black-BF651105f82a58b.otf);
+    font-weight: normal;
+    font-size: 25px;
+}
+button{
+    font-family: oktah;
+    src: url(oktah-font-family-1701089700-0/Fontspring-DEMO-oktah_black-BF651105f82a58b.otf);
+    font-weight: normal;
+    font-size: 20px;
+}
+.flex{
+    color: chocolate;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-block: 10px;
+    justify-content: space-around;
+}
+.text{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+.yt{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
